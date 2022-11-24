@@ -30,12 +30,9 @@ public class Trail2 implements JavaClass,FullyAbstraction {
 		
 	}
 
-	@Override
-	public void hindi() {
-		// TODO Auto-generated method stub
-		System.out.println("hindi");
+	
 		
-	}
+	
 
 	@Override
 	public void arabic() {
@@ -51,6 +48,12 @@ public class Trail2 implements JavaClass,FullyAbstraction {
 		tr.arabic();
 		tr.jothiraj();
 		tr.eshwar();
+		
+	}
+
+	@Override
+	public void hindi() {
+		// TODO Auto-generated method stub
 		
 	}
 
